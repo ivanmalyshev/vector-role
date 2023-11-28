@@ -29,4 +29,4 @@ MIT
 Author Information
 ------------------
 
-Ivan Malysehev
+Ivan Malyshev
