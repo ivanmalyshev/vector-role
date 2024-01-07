@@ -1,13 +1,11 @@
 galaxy_info:
-  author: Ivan Malyshev
-  description: Install vector on centos7-8
-  company: netology-student
-
-  license: MIT
-
-  min_ansible_version: 2.1
-
+  role_name: vector_role
+  namespace: ols
+  description: Role for installation and managing Vector
+  license: license (GPL-2.0-or-later, MIT, etc)
+  min_ansible_version: "2.1"
   platforms:
-    - name: Centos
+    - name: EL
       versions:
-      - 7
+        - "7"
+dependencies: []
